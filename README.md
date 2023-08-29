@@ -5,6 +5,7 @@ o Valor Futuro, a Taxa de Juros e a Data Futura e outra função, que faça o
 "contrário", calcule o Valor Futuro com os parâmetros Valor Presente, a Taxa de
 Juros e a Data Futura.
 
-Desenvolver a função Valor Presente [  ]
+# Checklist
+Desenvolver a função Valor Presente [ X ]
 
-Desenvolvedor a Função contrária [  ]
+Desenvolvedor a Função Valor Futuro [ X ]
