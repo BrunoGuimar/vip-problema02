@@ -20,7 +20,11 @@ git clone git@github.com:BrunoGuimar/vip-problema02.git
 ```
 2. Acesse o diretório do projeto:
 ```
-cd vip-problema02
+cd vip-problema02/src
+```
+3. Instale o pytest para execução dos testes unitários:
+```
+pip install pytest
 ```
 4. Execute a aplicação:
 
