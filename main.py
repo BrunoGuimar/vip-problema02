@@ -1,7 +1,7 @@
 from datetime import date, datetime
 
 
-# OBS: Como não foi informado a métrica da data adotei como uma string: datetime usando a
+# OBS: Como não foi informado a métrica da data adotei como uma string: datetime - ex: 2023-08-29 usando a
 # diferença dos meses entre os 2 períodos informados
 
 # Função responsável por retornar o valor presente
