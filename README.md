@@ -9,3 +9,21 @@ Juros e a Data Futura.
 Desenvolver a função Valor Presente [ X ]
 
 Desenvolvedor a Função Valor Futuro [ X ]
+
+# Instalação do projeto
+
+Siga esses passos para instalar e executar o projeto:
+
+1. Clone o repositório:
+```
+git clone git@github.com:BrunoGuimar/vip-problema02.git
+```
+2. Acesse o diretório do projeto:
+```
+cd vip-problema02
+```
+4. Execute a aplicação:
+
+```
+python main.py
+```
